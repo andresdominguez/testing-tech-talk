@@ -2,6 +2,7 @@
   "name": "testing-tech-talk",
   "version": "0.0.1",
   "devDependencies": {
+    "express": "~3.4.0",
     "protractor": "~0.18.1",
     "karma-script-launcher": "~0.1.0",
     "karma-chrome-launcher": "~0.1.2",
