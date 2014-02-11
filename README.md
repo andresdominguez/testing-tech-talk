@@ -5,7 +5,7 @@ Very simple testing with karma and protractor
 
 Get the code and install the dependencies:
 
-```shell
+```sh
 $ git clone https://github.com/andresdominguez/testing-tech-talk.git
 $ cd testing-tech-talk
 $ npm install
@@ -13,6 +13,6 @@ $ npm install
 
 Run the unit tests:
 
-```shell
+```sh
 $ ./node_modules/.bin/karma start
 ```
