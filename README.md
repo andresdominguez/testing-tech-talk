@@ -13,14 +13,14 @@ $ cd testing-tech-talk
 $ npm install
 ```
 
-## Run the unit tests:
+## Run the unit tests
 
 The unit tests run on karma. To run karma just execute the following command.
 ```sh
 $ ./node_modules/.bin/karma start
 ```
 
-## Run the protractor tests:
+## Run the protractor tests
 
 The e2e tests run on protractor. You will need 3 terminal windows to do it.
 
