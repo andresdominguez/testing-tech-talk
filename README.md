@@ -1,7 +1,9 @@
 Angular testing techtalk
 ========================
 
-Very simple testing with karma and protractor
+Very simple testing with karma and protractor.
+
+This sample app is based on Julie's [protractor-demo](https://github.com/juliemr/protractor-demo)
 
 Get the code and install the dependencies:
 
