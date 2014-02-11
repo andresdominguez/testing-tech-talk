@@ -32,7 +32,7 @@ $ ./node_modules/protractor/bin/webdriver-manager start
 
 Open a new terminal and start the express server:
 ```sh
-$ node app/expresserver.js
+$ node app/expressserver.js
 ```
 
 A calculator app will start on [http://localhost:3456/](http://localhost:3456/)
