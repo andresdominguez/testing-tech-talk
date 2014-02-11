@@ -39,5 +39,5 @@ A calculator app will start on [http://localhost:3456/](http://localhost:3456/)
 
 Open a third terminal and run protractor:
 ```sh
-$ ./node_modules/protractor/bin/protractor conf.js
+$ ./node_modules/.bin/protractor conf.js
 ```
