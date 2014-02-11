@@ -34,7 +34,7 @@ Open a new terminal and start the express server:
 $ node app/expresserver.js
 ```
 
-A calculator app will start on http://localhost:3456/
+A calculator app will start on [http://localhost:3456/](http://localhost:3456/)
 
 Open a third terminal and run protractor:
 
