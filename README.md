@@ -1,7 +1,14 @@
 Angular testing tech talk
 =========================
 
-Very simple testing with karma and protractor.
+Google NYC External Tech Talks [Slides](https://docs.google.com/presentation/d/1bmbv8QoOKSk5s_vY8XQf2LAUOfSCZNgKZU82uCOj78U/edit#slide=id.g2ad0434da_00)
+
+Lessons from a Large AngularJS App
+
+Tuesday, February 11, 2014 | 5:30-8:00 pm
+
+
+This is a very simple testing with karma and protractor.
 
 This sample app is based on Julie's [protractor-demo](https://github.com/juliemr/protractor-demo)
 
